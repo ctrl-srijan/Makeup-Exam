@@ -1,0 +1,12 @@
+Test Accuracy : 0.9500
+Test Loss     : 0.1376
+
+Classification Report:
+              precision    recall  f1-score   support
+
+   Non-Toxic       1.00      0.90      0.95        20
+       Toxic       0.91      1.00      0.95        20
+
+    accuracy                           0.95        40
+   macro avg       0.95      0.95      0.95        40
+weighted avg       0.95      0.95      0.95        40
